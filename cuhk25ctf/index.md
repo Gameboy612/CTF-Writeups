@@ -1,6 +1,6 @@
 # CUHK CTF 2025
 
-## [[Cloud Security] Iam Mr.Cow and Mr.Cloud](./cuhk25ctf/iam_mrcow_and_mrcloud/writeup.md)
+## [[Cloud Security] Iam Mr.Cow or Mr.Cloud](./cuhk25ctf/iam_mrcow_or_mrcloud/writeup.md)
 
 
 Iam Mr. Cow or Mr. Cloud?

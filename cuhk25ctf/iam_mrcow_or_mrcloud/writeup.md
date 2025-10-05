@@ -1,5 +1,5 @@
 
-## [Cloud Security] Iam Mr.Cow and Mr.Cloud
+## [Cloud Security] Iam Mr.Cow or Mr.Cloud
 
 ```
 Iam Mr. Cow or Mr. Cloud?
@@ -42,9 +42,9 @@ A tiny storefront page is all you’re given. It looks harmless, but it reflects
 When downloading the zip, we are greeted with a index.html file. Opening it in a browser, shows a simple webpage with an SVG image.
 
 
-![image](/cuhk25ctf/iam_mrcow_and_mrcloud/cowcloud.svg)
+![image](/cuhk25ctf/iam_mrcow_or_mrcloud/cowcloud.svg)
 
-[index.html](/cuhk25ctf/iam_mrcow_and_mrcloud/index.html)
+[index.html](/cuhk25ctf/iam_mrcow_or_mrcloud/index.html)
 
 Aside from that, the title of this challenge starts with IAM, which is a service in AWS for Identity and Access Management. This hints that we might be dealing with access permissions.
 

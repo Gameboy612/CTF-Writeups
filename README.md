@@ -2,7 +2,7 @@
 
 
 ## CUHK CTF 2025
-1. [[Cloud Security] Iam Mr.Cow and Mr.Cloud](./cuhk25ctf/iam_mrcow_and_mrcloud/writeup.md) (Co-authored with Chloe Chow)
+1. [[Cloud Security] Iam Mr.Cow or Mr.Cloud](./cuhk25ctf/iam_mrcow_or_mrcloud/writeup.md) (Co-authored with Chloe Chow)
 2. [[Binary Exploitation] Permutations](./cuhk25ctf/permutations/writeup.md)
 
 ## HKCERT CTF 2024
