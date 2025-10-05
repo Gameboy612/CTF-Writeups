@@ -62,7 +62,9 @@ The `Stack` is a region of memory which is LIFO *(Last-In-First-Out)*. We store 
 
 When a function is called, a new block is created on the stack. We first push the **return address** onto the stack, then followed by the function's **local variables**.
 
-![Stack Diagram from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Call_stack_layout.svg/1024px-Call_stack_layout.svg.png)
+<!-- ![Stack Diagram from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Call_stack_layout.svg/1024px-Call_stack_layout.svg.png) -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Call_stack_layout.svg/1024px-Call_stack_layout.svg.png" height="300">
 
 This procedure can nest, meaning that if a function (e.g. `DrawSquare`) calls **another function** (e.g. `DrawLine`), a new block is created on top of the previous one.
 
@@ -101,7 +103,9 @@ Down below, there is a scanf which takes a 31-character string, and compares it 
 
 If it matches, it takes in two integers, and swaps the fruits at those indices. However, there is **no bounds checking** on the indices.
 
-![Array Space from Study.com](/cuhk25ctf/permutations/array_space.png)
+<img src="/cuhk25ctf/permutations/array_space.png" height="300">
+
+<!-- ![Array Space from Study.com](/cuhk25ctf/permutations/array_space.png) -->
 
 As shown here, the array starts at index 0, and spans **towards** where the return address is stored.
 
