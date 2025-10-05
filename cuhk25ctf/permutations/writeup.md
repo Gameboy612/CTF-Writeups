@@ -1,4 +1,29 @@
 
+
+## [[Binary Exploitation] Permutations](./permutations/writeup.md)
+
+- Author: F21endSh1p
+- 493 Points (15 Solves)
+- ☆☆☆☆
+
+Move around and find out.
+
+*Tutorial guide in challenge files*
+
+```
+FROM ubuntu@sha256:9cbed754112939e914291337b5e554b07ad7c392491dba6daf25eef1332a22e8
+```
+
+`nc chall.25.cuhkctf.org 25067`
+
+[source](/cuhk25ctf/permutations/67_permutations_dcf1ea8df9a78ec32bdbd6c66e68fcf9)
+
+---
+
+<br>
+<br>
+<br>
+<br>
 # Solution:
 Inside the folder, there is a very lengthy `guide.md` file, a binary `chall`, the source code `chall.c` and a `build.sh`.
 
