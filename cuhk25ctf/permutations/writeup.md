@@ -407,3 +407,9 @@ if b"hidden" in result:
 Output:
 cuhk25ctf{u-Sti11-L3aRN-tHe-BaSic-PwN-Fu-0f-CalCulATInG-AddreSs____JuSt-ThAT-IT-doEs-Not-reAllY-HaVE-MuCh-T0-dO-With-MATHS}
 ```
+
+
+# Bibliography
+1. [Ret2win - ir0nstone](https://ir0nstone.gitbook.io/notes/binexp/stack/ret2win)
+2. [Stack - Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
+3. [Array - Study.com](https://study.com/academy/lesson/stacks-in-c-programming-structure-implementation.html)
