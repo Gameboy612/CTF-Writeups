@@ -1,6 +1,6 @@
 # CUHK CTF 2025
 
-## [[Cloud Security] Iam Mr.Cow or Mr.Cloud](./cuhk25ctf/iam_mrcow_or_mrcloud/writeup.md)
+## [[Cloud Security] Iam Mr.Cow or Mr.Cloud](./iam_mrcow_or_mrcloud/writeup.md)
 
 
 Iam Mr. Cow or Mr. Cloud?
@@ -19,7 +19,7 @@ A tiny storefront page is all you’re given. It looks harmless, but it reflects
 
 
 
-## [[Binary Exploitation] Permutations](./cuhk25ctf/permutations/writeup.md)
+## [[Binary Exploitation] Permutations](./permutations/writeup.md)
 
 - Author: F21endSh1p
 - 493 Points (15 Solves)
