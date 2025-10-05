@@ -42,9 +42,9 @@ A tiny storefront page is all you’re given. It looks harmless, but it reflects
 When downloading the zip, we are greeted with a index.html file. Opening it in a browser, shows a simple webpage with an SVG image.
 
 
-![image](/assets/images/blog/cuhk25ctf/iam_mr_cow_or_mr_cloud/cowcloud.svg)
+![image](/cuhk25ctf/iam_mr_cow_or_mr_cloud/cowcloud.svg)
 
-[index.html](/assets/images/blog/cuhk25ctf/iam_mr_cow_or_mr_cloud/index.html)
+[index.html](/cuhk25ctf/iam_mr_cow_or_mr_cloud/index.html)
 
 Aside from that, the title of this challenge starts with IAM, which is a service in AWS for Identity and Access Management. This hints that we might be dealing with access permissions.
 
