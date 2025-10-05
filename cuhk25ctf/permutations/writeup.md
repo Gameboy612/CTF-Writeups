@@ -24,6 +24,7 @@ FROM ubuntu@sha256:9cbed754112939e914291337b5e554b07ad7c392491dba6daf25eef1332a2
 <br>
 <br>
 <br>
+
 # Solution:
 Inside the folder, there is a very lengthy `guide.md` file, a binary `chall`, the source code `chall.c` and a `build.sh`.
 
